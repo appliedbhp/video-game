@@ -1,0 +1,81 @@
+{
+  "world": "Yellowstone Highlands",
+  "pickup": "geyserstone",
+  "tileSize": 16,
+  "viewport": [
+    480,
+    250
+  ],
+  "backgrounds": [],
+  "tileset": {
+    "image": "tileset.png",
+    "columns": 8
+  },
+  "props": {
+    "image": "props.png",
+    "rects": {
+      "tall": [
+        0,
+        0,
+        104,
+        116
+      ],
+      "tuft": [
+        104,
+        0,
+        56,
+        42
+      ],
+      "landmark": [
+        160,
+        0,
+        96,
+        84
+      ]
+    }
+  },
+  "sprites": {
+    "image": "atlas.png",
+    "animations": {
+      "geyserstone": {
+        "fps": 7,
+        "anchor": [
+          8,
+          8
+        ],
+        "frames": [
+          [
+            0,
+            0,
+            16,
+            16
+          ],
+          [
+            16,
+            0,
+            16,
+            16
+          ],
+          [
+            32,
+            0,
+            16,
+            16
+          ],
+          [
+            48,
+            0,
+            16,
+            16
+          ]
+        ]
+      }
+    }
+  },
+  "levels": [
+    {
+      "name": "Geyser Ridge",
+      "layout": "geyser-ridge.json"
+    }
+  ]
+}

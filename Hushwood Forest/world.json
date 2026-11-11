@@ -1,0 +1,102 @@
+{
+  "world": "Frostpine Heights",
+  "character": "Barnaby",
+  "pickup": "feather",
+  "tileSize": 16,
+  "viewport": [
+    480,
+    250
+  ],
+  "backgrounds": [
+    {
+      "image": "snow-background.png",
+      "repeatX": false,
+      "fit": "cover",
+      "scrollFactor": 0.07
+    },
+    {
+      "image": "snow-far.png",
+      "scrollFactor": 0.22
+    },
+    {
+      "image": "snow-near.png",
+      "scrollFactor": 0.46
+    }
+  ],
+  "tileset": {
+    "image": "snow-tiles.png",
+    "columns": 8
+  },
+  "props": {
+    "image": "snow-props.png",
+    "rects": {
+      "tall": [
+        0,
+        0,
+        104,
+        116
+      ],
+      "tuft": [
+        104,
+        0,
+        56,
+        42
+      ],
+      "landmark": [
+        160,
+        0,
+        96,
+        84
+      ]
+    },
+    "groundInset": {
+      "tall": 4,
+      "tuft": 4,
+      "landmark": 4
+    }
+  },
+  "sprites": {
+    "image": "atlas.png",
+    "animations": {
+      "feather": {
+        "fps": 7,
+        "anchor": [
+          8,
+          8
+        ],
+        "frames": [
+          [
+            0,
+            0,
+            16,
+            16
+          ],
+          [
+            16,
+            0,
+            16,
+            16
+          ],
+          [
+            32,
+            0,
+            16,
+            16
+          ],
+          [
+            48,
+            0,
+            16,
+            16
+          ]
+        ]
+      }
+    }
+  },
+  "levels": [
+    {
+      "name": "Moonperch Trail",
+      "layout": "moonperch-trail.json"
+    }
+  ]
+}

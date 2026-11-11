@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HexaFlex · The Star Trail</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="worlds.js"></script>
+  <script defer src="lessons.js"></script>
+  <script defer src="game.js"></script>
+</head>
+<body>
+  <main>
+    <header class="intro">
+      <h1>The Star Trail</h1>
+      <div class="menu-actions">
+        <button id="sound" type="button" aria-pressed="true">Sound on</button>
+        <button id="demo" type="button" aria-haspopup="dialog">Demo</button>
+        <button id="restart" type="button">Restart</button>
+      </div>
+    </header>
+    <section class="game" aria-label="HexaFlex game">
+      <div class="gamebar">
+        <span class="location"><span class="dot"></span><span id="location">Sunnyland</span></span>
+        <span id="hearts" role="img" aria-label="3 of 3 hearts"></span>
+        <span id="brain-meter" role="meter" aria-label="Dopamine" aria-valuemin="0" aria-valuemax="100">
+          <img src="assets/brain.png" alt="">
+          <span class="brain-track" aria-hidden="true"><span id="brain-fill"></span></span>
+          <b id="brain-value" aria-hidden="true">60%</b>
+        </span>
+        <span class="score" id="score" aria-label="0 stars collected"><img src="assets/trail-star.png" alt=""> <b id="count">0</b> stars</span>
+        <span id="bonus-score"><b id="bonus-count">0</b> bonus</span>
+      </div>
+      <div class="stage">
+        <canvas id="world" width="480" height="250" aria-label="Side-scrolling landscape" aria-describedby="controls" tabindex="-1"></canvas>
+        <section id="conversation" role="dialog" aria-label="Bob and the notebook" hidden>
+          <div class="conversation-header">
+            <strong id="speaker"></strong>
+          </div>
+          <div class="conversation-body">
+            <div class="notebook-art">
+              <div class="portrait-frame"><img id="portrait" src="assets/portraits/thinking.png" alt="" hidden></div>
+              <canvas id="notebook" width="216" height="152" role="img" aria-label="Scratchy’s notebook" hidden></canvas>
+            </div>
+            <p id="line" aria-live="polite"></p>
+          </div>
+          <div id="choices" role="group" aria-label="Choose how to respond" hidden></div>
+          <button id="next" type="button">Next</button>
+        </section>
+        <div id="heart-reward" aria-hidden="true"><img src="assets/heart-full.png" alt=""> <span>+1 heart slot</span></div>
+        <p id="notice" role="status">Loading the trail…</p>
+      </div>
+    </section>
+    <div id="controls" class="controls">
+      <span><kbd>←</kbd> <kbd>→</kbd> Jog</span>
+      <span><kbd>Space</kbd> Jump</span>
+      <span><kbd>Shift</kbd> Run at 50% brain power</span>
+      <span>Double jump at 50% brain power</span>
+      <span><kbd>↓</kbd> Drop through</span>
+      <span><kbd>E</kbd> Continue</span>
+    </div>
+    <div class="touch" aria-label="On-screen controls">
+      <div><button type="button" data-key="ArrowLeft" aria-label="Walk left">←</button>
+      <button type="button" data-key="ArrowRight" aria-label="Move right">→</button>
+      <button type="button" data-key="ShiftLeft">Run</button></div>
+      <div><button type="button" data-key="ArrowDown">↓ Drop</button>
+      <button type="button" data-key="Space">↑ Jump</button></div>
+    </div>
+    <dialog id="demo-picker" aria-labelledby="demo-title" aria-describedby="demo-details">
+      <div class="demo-header">
+        <h2 id="demo-title">Demo levels</h2>
+        <form method="dialog"><button type="submit" autofocus>Close</button></form>
+      </div>
+      <p id="demo-details">Pick any landscape to start a fresh test run.</p>
+      <div id="demo-levels" class="demo-levels"></div>
+      <button id="play-campaign" type="button">Start campaign from Level 1</button>
+    </dialog>
+    <audio id="music" loop preload="none"></audio>
+    <footer>Scratchy &amp; HexaFlex · Sunnyland art by Luis Zuno (Ansimuz) · Stringstar Fields asset pack · Music by Pascal Belisle and <a href="https://abstractionmusic.com/">Abstraction</a></footer>
+  </main>
+</body>
+</html>

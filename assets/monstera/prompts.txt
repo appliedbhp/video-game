@@ -1,0 +1,21 @@
+Created with the built-in image generation tool. Each asset is a separate transparent PNG.
+
+deliciosa-large: Large mature Monstera deliciosa with 7 broad deep green heart-shaped leaves, deep splits and enclosed leaf holes, thick arching stems and a few aerial roots. Wide luxuriant silhouette. Crisp 16-bit pixel art. Whole plant rooted at bottom center, transparent background, no pot, text, border, or landscape.
+
+deliciosa-small: Small young Monstera deliciosa, compact cluster of 4 bright green juvenile heart-shaped leaves, one leaf with early fenestrations, thin short stems, little root tuft. Small ground plant. Crisp 16-bit pixel art. Whole plant rooted at bottom center, transparent background, no pot, text, border, or landscape.
+
+albo-large: Large mature Monstera deliciosa albo variegata. 6 dramatic split leaves with strong irregular crisp ivory-white sectors and forest-green sectors, mixed half-moon leaves and green speckles. Distinct huge cream-and-green silhouette. Crisp 16-bit pixel art. Whole plant rooted at bottom center, transparent background, no pot, text, border, or landscape.
+
+albo-small: Small compact Monstera albo, 4 young leaves in medium green with white marbled patches, one half-moon white leaf with a few splits, short stems. Delicate small ground plant. Crisp 16-bit pixel art. Whole plant rooted at bottom center, transparent background, no pot, text, border, or landscape.
+
+thai-constellation: Large Monstera Thai Constellation, broad dark forest-green split leaves freckled with many creamy pale-yellow pinprick constellations and a few irregular cream patches, elegant arched stems. Crisp 16-bit pixel art. Whole plant rooted at bottom center, transparent background, no pot, text, border, or landscape.
+
+aurea-small: Small Monstera aurea, 5 fenestrated leaves with vibrant yellow-lime and deep-green marbling and yellow sectors, compact graceful silhouette, no white patches. Crisp 16-bit pixel art. Whole plant rooted at bottom center, transparent background, no pot, text, border, or landscape.
+
+mint-large: Large Monstera mint, 6 mature fenestrated leaves in pale mint and sage marbling with a dark green central vein and green speckles. Airy silver-mint silhouette. Crisp 16-bit pixel art. Whole plant rooted at bottom center, transparent background, no pot, text, border, or landscape.
+
+adansonii-small: Small Monstera adansonii, a short lush trailing cluster of slender oval emerald leaves with many enclosed oval Swiss-cheese holes and smooth unsplit outer edges, a few trailing vines, compact grounded growth. Crisp 16-bit pixel art. Whole plant rooted at bottom center, transparent background, no pot, text, border, or landscape.
+
+siltepecana-medium: Medium Monstera siltepecana growing as a compact upright vine around a short naturally mossy stick. Elongated pointed heart leaves in silvery sage with dark green veins and edges. A few larger lower leaves, botanical distinct from deliciosa. Crisp 16-bit pixel art. Whole plant rooted at bottom center, transparent background, no pot, text, border, or landscape.
+
+dubia-small: Small Monstera dubia shingling vine on a short upright weathered bark stump. Overlapping flat heart leaves in deep green and luminous pale silver markings between dark veins, arranged alternating tightly against the support. Compact silhouette. Crisp 16-bit pixel art. Whole plant rooted at bottom center, transparent background, no pot, text, border, or landscape.

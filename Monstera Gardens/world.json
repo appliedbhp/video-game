@@ -1,0 +1,58 @@
+{
+  "world": "Monstera Gardens",
+  "pickup": "seed",
+  "tileSize": 16,
+  "viewport": [
+    480,
+    250
+  ],
+  "visiblePlatforms": true,
+  "backgrounds": [
+    {
+      "image": "canopy-background.png",
+      "scrollFactor": 0.12
+    }
+  ],
+  "tileset": {
+    "image": "tileset.png",
+    "columns": 8
+  },
+  "props": {
+    "image": "props.png",
+    "rects": {}
+  },
+  "sprites": {
+    "image": "atlas.png",
+    "animations": {
+      "seed": {
+        "fps": 1,
+        "anchor": [
+          8,
+          8
+        ],
+        "frames": [
+          [
+            0,
+            0,
+            16,
+            16
+          ]
+        ]
+      }
+    }
+  },
+  "levels": [
+    {
+      "name": "Variegated Canopy",
+      "layout": "variegated-canopy.json",
+      "background": "sunlit-jungle.png",
+      "backgroundFit": "cover"
+    },
+    {
+      "name": "Silverleaf Rain Garden",
+      "layout": "silverleaf-rain-garden.json",
+      "background": "moonlit-rain-garden.png",
+      "backgroundFit": "cover"
+    }
+  ]
+}

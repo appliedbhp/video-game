@@ -1,0 +1,151 @@
+{
+  "world": "Coral Coast",
+  "pickup": "shell",
+  "tileSize": 16,
+  "viewport": [
+    480,
+    250
+  ],
+  "backgrounds": [
+    {
+      "image": "background_0.png",
+      "scrollFactor": 0.07
+    },
+    {
+      "image": "background_1.png",
+      "scrollFactor": 0.22
+    },
+    {
+      "image": "background_2.png",
+      "scrollFactor": 0.46
+    }
+  ],
+  "tileset": {
+    "image": "tileset.png",
+    "columns": 8
+  },
+  "props": {
+    "image": "props.png",
+    "rects": {
+      "palm": [
+        0,
+        0,
+        103,
+        100
+      ],
+      "hut": [
+        103,
+        0,
+        88,
+        73
+      ],
+      "rocks": [
+        191,
+        0,
+        42,
+        32
+      ],
+      "umbrella": [
+        233,
+        0,
+        52,
+        42
+      ]
+    },
+    "groundInset": {
+      "palm": 5,
+      "hut": 5,
+      "rocks": 5,
+      "umbrella": 5
+    }
+  },
+  "sprites": {
+    "image": "atlas.png",
+    "animations": {
+      "shell": {
+        "fps": 7,
+        "anchor": [
+          8,
+          8
+        ],
+        "frames": [
+          [
+            0,
+            0,
+            16,
+            16
+          ],
+          [
+            16,
+            0,
+            16,
+            16
+          ],
+          [
+            32,
+            0,
+            16,
+            16
+          ],
+          [
+            48,
+            0,
+            16,
+            16
+          ],
+          [
+            64,
+            0,
+            16,
+            16
+          ]
+        ]
+      },
+      "crab": {
+        "fps": 9,
+        "anchor": [
+          8,
+          13
+        ],
+        "frames": [
+          [
+            0,
+            16,
+            16,
+            16
+          ],
+          [
+            16,
+            16,
+            16,
+            16
+          ],
+          [
+            32,
+            16,
+            16,
+            16
+          ],
+          [
+            48,
+            16,
+            16,
+            16
+          ],
+          [
+            64,
+            16,
+            16,
+            16
+          ]
+        ]
+      }
+    }
+  },
+  "levels": [
+    {
+      "name": "Tidepool Beach",
+      "layout": "tidepool-beach.json"
+    }
+  ]
+}

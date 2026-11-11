@@ -1,0 +1,95 @@
+{
+  "world": "Copperbrush Meadow",
+  "character": "Fargo",
+  "pickup": "berry",
+  "tileSize": 16,
+  "viewport": [
+    480,
+    250
+  ],
+  "backgrounds": [
+    {
+      "image": "background_0.png",
+      "scrollFactor": 0.07
+    },
+    {
+      "image": "background_1.png",
+      "scrollFactor": 0.22
+    },
+    {
+      "image": "background_2.png",
+      "scrollFactor": 0.46
+    }
+  ],
+  "tileset": {
+    "image": "tileset.png",
+    "columns": 8
+  },
+  "props": {
+    "image": "props.png",
+    "rects": {
+      "tall": [
+        0,
+        0,
+        104,
+        116
+      ],
+      "tuft": [
+        104,
+        0,
+        56,
+        42
+      ],
+      "landmark": [
+        160,
+        0,
+        96,
+        84
+      ]
+    }
+  },
+  "sprites": {
+    "image": "atlas.png",
+    "animations": {
+      "berry": {
+        "fps": 7,
+        "anchor": [
+          8,
+          8
+        ],
+        "frames": [
+          [
+            0,
+            0,
+            16,
+            16
+          ],
+          [
+            16,
+            0,
+            16,
+            16
+          ],
+          [
+            32,
+            0,
+            16,
+            16
+          ],
+          [
+            48,
+            0,
+            16,
+            16
+          ]
+        ]
+      }
+    }
+  },
+  "levels": [
+    {
+      "name": "Bramble Ridge",
+      "layout": "bramble-ridge.json"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+Created with the built-in image generation tool.
+
+fiddle-leaf-fig
+A single standalone transparent-background 2D side-view pixel-art houseplant game scenery asset. Polished crisp 16-bit square pixel clusters, dark teal shadow and warm green highlights. Full plant in frame with padding, ground-rooted base centered at bottom. No pot, no ground plane, no scene, no labels, no text, no border. Match the existing lush monstera pixel sprites. Subject: A medium fiddle-leaf fig with a slender woody trunk and broad glossy violin-shaped dark green leaves with pale veins, one branching crown.
+
+bird-of-paradise
+A single standalone transparent-background 2D side-view pixel-art houseplant game scenery asset. Polished crisp 16-bit square pixel clusters, dark teal shadow and warm green highlights. Full plant in frame with padding, ground-rooted base centered at bottom. No pot, no ground plane, no scene, no labels, no text, no border. Match the existing lush monstera pixel sprites. Subject: A large bird-of-paradise foliage plant with tall arching upright stems and large elegant paddle-shaped green leaves, some naturally split tips, one small orange flower.
+
+calathea-orbifolia
+A single standalone transparent-background 2D side-view pixel-art houseplant game scenery asset. Polished crisp 16-bit square pixel clusters, dark teal shadow and warm green highlights. Full plant in frame with padding, ground-rooted base centered at bottom. No pot, no ground plane, no scene, no labels, no text, no border. Match the existing lush monstera pixel sprites. Subject: A small lush Calathea orbifolia with broad round pale sage leaves striped in silver and dark green, compact layered ground clump.
+
+alocasia-polly
+A single standalone transparent-background 2D side-view pixel-art houseplant game scenery asset. Polished crisp 16-bit square pixel clusters, dark teal shadow and warm green highlights. Full plant in frame with padding, ground-rooted base centered at bottom. No pot, no ground plane, no scene, no labels, no text, no border. Match the existing lush monstera pixel sprites. Subject: A medium Alocasia Polly with angular arrowhead-shaped deep dark green leaves, striking pale ivory veins, scalloped edges and upright stems.
+
+boston-fern
+A single standalone transparent-background 2D side-view pixel-art houseplant game scenery asset. Polished crisp 16-bit square pixel clusters, dark teal shadow and warm green highlights. Full plant in frame with padding, ground-rooted base centered at bottom. No pot, no ground plane, no scene, no labels, no text, no border. Match the existing lush monstera pixel sprites. Subject: A small spreading Boston fern with many finely segmented bright emerald arching fronds, graceful dense rosette.
+
+golden-pothos
+A single standalone transparent-background 2D side-view pixel-art houseplant game scenery asset. Polished crisp 16-bit square pixel clusters, dark teal shadow and warm green highlights. Full plant in frame with padding, ground-rooted base centered at bottom. No pot, no ground plane, no scene, no labels, no text, no border. Match the existing lush monstera pixel sprites. Subject: A medium golden pothos with gold and green marbled heart leaves, a short mossy branch support, vines trailing sideways.
+
+sunlit-jungle
+Wide panoramic 2D side scrolling platformer background, roughly 2:1. Rich beautiful 16-bit pixel art jungle, tall layered rainforest trunks, enormous overhead tropical leaves, hanging vines, shafts of pale sunlight through a turquoise and sage canopy, distant moss-covered stone arch and a faint fern-filled trail. Deep layered atmosphere with mossy stone, ferns, bird-of-paradise leaves and tropical foliage. Open readable central middle area for gameplay. Lower fifth is background foliage only, game ground is drawn in front. No characters, no UI, no text, no borders. Crisp hand-placed square pixel clusters, limited coherent greens, teal shadows and soft warm light.
+
+moonlit-rain-garden
+Wide panoramic 2D side scrolling platformer background, roughly 2:1. Beautiful detailed 16-bit pixel art moonlit tropical jungle, a distant small waterfall dropping into a blue-green pool, arching rainforest trees framing left and right, layered silvery philodendron foliage, ferns, dangling vines and pale purple flowers. Moonlight through mist in lavender, turquoise, indigo and silvery sage. Open middle area for game sprites. Lower fifth is distant scenery only, game ground drawn in front. No characters, no platforms, no UI, no labels, no text, no borders. Crisp deliberate square pixel clusters with atmospheric depth.

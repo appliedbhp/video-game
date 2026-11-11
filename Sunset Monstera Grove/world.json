@@ -1,0 +1,302 @@
+{
+  "world": "Sunset Monstera Grove",
+  "tileSize": 16,
+  "viewport": [
+    384,
+    224
+  ],
+  "backgrounds": [
+    {
+      "image": "background_0.png",
+      "scrollFactor": 0,
+      "repeatX": false,
+      "alignX": "center"
+    },
+    {
+      "image": "background_1.png",
+      "scrollFactor": 0.23,
+      "repeatX": true
+    },
+    {
+      "image": "background_2.png",
+      "scrollFactor": 0.45,
+      "repeatX": true
+    }
+  ],
+  "tileset": {
+    "image": "tileset.png",
+    "columns": 8,
+    "empty": -1,
+    "ids": {
+      "moss": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "cliffTop": [
+        4,
+        5
+      ],
+      "rock": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "cliffSide": [
+        12,
+        13
+      ],
+      "bridge": [
+        16,
+        17,
+        18
+      ],
+      "sprig": [
+        24,
+        25
+      ],
+      "crystal": 26
+    }
+  },
+  "props": {
+    "image": "props.png",
+    "rects": {
+      "monstera-large": [
+        0,
+        0,
+        124,
+        118
+      ],
+      "monstera-small": [
+        124,
+        0,
+        76,
+        75
+      ],
+      "arch": [
+        200,
+        0,
+        80,
+        85
+      ]
+    },
+    "groundInset": {
+      "monstera-large": 5,
+      "monstera-small": 5,
+      "arch": 5
+    }
+  },
+  "sprites": {
+    "image": "atlas.png",
+    "animations": {
+      "sunseed": {
+        "fps": 8,
+        "loop": true,
+        "anchor": [
+          16,
+          12
+        ],
+        "frames": [
+          [
+            0,
+            0,
+            32,
+            24
+          ],
+          [
+            32,
+            0,
+            32,
+            24
+          ],
+          [
+            64,
+            0,
+            32,
+            24
+          ],
+          [
+            96,
+            0,
+            32,
+            24
+          ],
+          [
+            128,
+            0,
+            32,
+            24
+          ],
+          [
+            160,
+            0,
+            32,
+            24
+          ]
+        ]
+      },
+      "duskwing": {
+        "fps": 12,
+        "loop": true,
+        "anchor": [
+          16,
+          12
+        ],
+        "frames": [
+          [
+            0,
+            24,
+            32,
+            24
+          ],
+          [
+            32,
+            24,
+            32,
+            24
+          ],
+          [
+            64,
+            24,
+            32,
+            24
+          ],
+          [
+            96,
+            24,
+            32,
+            24
+          ],
+          [
+            128,
+            24,
+            32,
+            24
+          ],
+          [
+            160,
+            24,
+            32,
+            24
+          ]
+        ]
+      },
+      "leafcrawler": {
+        "fps": 9,
+        "loop": true,
+        "anchor": [
+          16,
+          21
+        ],
+        "frames": [
+          [
+            0,
+            48,
+            32,
+            24
+          ],
+          [
+            32,
+            48,
+            32,
+            24
+          ],
+          [
+            64,
+            48,
+            32,
+            24
+          ],
+          [
+            96,
+            48,
+            32,
+            24
+          ],
+          [
+            128,
+            48,
+            32,
+            24
+          ],
+          [
+            160,
+            48,
+            32,
+            24
+          ]
+        ]
+      },
+      "collect": {
+        "fps": 16,
+        "loop": false,
+        "anchor": [
+          16,
+          12
+        ],
+        "frames": [
+          [
+            0,
+            72,
+            32,
+            24
+          ],
+          [
+            32,
+            72,
+            32,
+            24
+          ],
+          [
+            64,
+            72,
+            32,
+            24
+          ],
+          [
+            96,
+            72,
+            32,
+            24
+          ],
+          [
+            128,
+            72,
+            32,
+            24
+          ],
+          [
+            160,
+            72,
+            32,
+            24
+          ]
+        ]
+      }
+    }
+  },
+  "levels": [
+    {
+      "name": "Goldleaf Trail",
+      "layout": "goldleaf-trail.json",
+      "preview": "goldleaf-trail.png"
+    },
+    {
+      "name": "Sunset Canopy",
+      "layout": "sunset-canopy.json",
+      "preview": "sunset-canopy.png"
+    },
+    {
+      "name": "Amber Overlook",
+      "layout": "amber-overlook.json",
+      "preview": "amber-overlook.png"
+    },
+    {
+      "name": "Rootwater Basin",
+      "layout": "rootwater-basin.json",
+      "preview": "rootwater-basin.png"
+    }
+  ]
+}

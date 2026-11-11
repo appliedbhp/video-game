@@ -1,0 +1,68 @@
+[
+  {
+    "id": "fiddle-leaf-fig",
+    "description": "A medium fiddle-leaf fig with a slender woody trunk and broad glossy violin-shaped dark green leaves with pale veins, one branching crown",
+    "displayHeight": 112,
+    "source": [
+      98,
+      16,
+      1011,
+      1278
+    ]
+  },
+  {
+    "id": "bird-of-paradise",
+    "description": "A large bird-of-paradise foliage plant with tall arching upright stems and large elegant paddle-shaped green leaves, some naturally split tips, one small orange flower",
+    "displayHeight": 122,
+    "source": [
+      19,
+      17,
+      1176,
+      1255
+    ]
+  },
+  {
+    "id": "calathea-orbifolia",
+    "description": "A small lush Calathea orbifolia with broad round pale sage leaves striped in silver and dark green, compact layered ground clump",
+    "displayHeight": 60,
+    "source": [
+      56,
+      68,
+      1200,
+      1073
+    ]
+  },
+  {
+    "id": "alocasia-polly",
+    "description": "A medium Alocasia Polly with angular arrowhead-shaped deep dark green leaves, striking pale ivory veins, scalloped edges and upright stems",
+    "displayHeight": 85,
+    "source": [
+      89,
+      10,
+      1129,
+      1179
+    ]
+  },
+  {
+    "id": "boston-fern",
+    "description": "A small spreading Boston fern with many finely segmented bright emerald arching fronds, graceful dense rosette",
+    "displayHeight": 54,
+    "source": [
+      95,
+      39,
+      1318,
+      952
+    ]
+  },
+  {
+    "id": "golden-pothos",
+    "description": "A medium golden pothos with gold and green marbled heart leaves, a short mossy branch support, vines trailing sideways",
+    "displayHeight": 80,
+    "source": [
+      59,
+      13,
+      1419,
+      979
+    ]
+  }
+]

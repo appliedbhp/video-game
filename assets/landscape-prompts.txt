@@ -1,0 +1,7 @@
+Generated with the built-in image generation tool.
+
+Amber Dunes/cactus-panorama.png
+Wide 16-bit desert panorama using pixel-cactus.png as the cactus reference, with peach sky, warm sun, layered sienna mesas, ochre dunes and olive saguaros. Open upper sky, no characters or UI.
+
+Hushwood Forest/snow-panorama.png
+Wide 16-bit snow forest at blue twilight, layered lavender mountains, snowy blue-teal spruce, pale golden moon and open sky for Barnaby. No characters, platforms or UI.

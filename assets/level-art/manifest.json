@@ -1,0 +1,2234 @@
+{
+  "Sunnyland": {
+    "food": [
+      [
+        0,
+        130,
+        185
+      ],
+      [
+        3,
+        812,
+        185
+      ],
+      [
+        1,
+        1470,
+        185
+      ],
+      [
+        0,
+        2280,
+        185
+      ],
+      [
+        3,
+        3125,
+        185
+      ]
+    ],
+    "backgroundProps": [
+      {
+        "sprite": "apple-tree",
+        "source": [
+          9,
+          36,
+          1245,
+          1190
+        ],
+        "x": 202,
+        "y": 208,
+        "height": 99
+      },
+      {
+        "sprite": "apple-tree",
+        "source": [
+          9,
+          36,
+          1245,
+          1190
+        ],
+        "x": 739,
+        "y": 208,
+        "height": 91
+      },
+      {
+        "sprite": "apple-tree",
+        "source": [
+          9,
+          36,
+          1245,
+          1190
+        ],
+        "x": 1450,
+        "y": 208,
+        "height": 100
+      },
+      {
+        "sprite": "apple-tree",
+        "source": [
+          9,
+          36,
+          1245,
+          1190
+        ],
+        "x": 2170,
+        "y": 208,
+        "height": 94
+      },
+      {
+        "sprite": "apple-tree",
+        "source": [
+          9,
+          36,
+          1245,
+          1190
+        ],
+        "x": 3390,
+        "y": 208,
+        "height": 96
+      }
+    ],
+    "checkpoint": {
+      "x": 1816,
+      "y": 208,
+      "style": 0
+    },
+    "trailProps": [
+      [
+        "pedestal",
+        535,
+        208
+      ]
+    ],
+    "parallax": [
+      {
+        "image": "sunnyland-far",
+        "scrollFactor": 0.1,
+        "opacity": 1
+      },
+      {
+        "image": "sunnyland-near",
+        "scrollFactor": 0.32,
+        "opacity": 0.82
+      }
+    ]
+  },
+  "Stringstar Fields": {
+    "props": "stringstar-fields-props",
+    "rects": [
+      [
+        0,
+        0,
+        56,
+        56
+      ]
+    ],
+    "scenery": [
+      [
+        0,
+        3418,
+        213
+      ]
+    ],
+    "food": [
+      [
+        1,
+        130,
+        185
+      ],
+      [
+        0,
+        812,
+        185
+      ],
+      [
+        2,
+        1470,
+        185
+      ],
+      [
+        1,
+        2280,
+        185
+      ],
+      [
+        0,
+        3125,
+        185
+      ],
+      [
+        6,
+        1456,
+        144
+      ]
+    ],
+    "checkpoint": {
+      "x": 1820,
+      "y": 208,
+      "style": 6
+    },
+    "parallax": [
+      {
+        "image": "stringstar-far",
+        "scrollFactor": 0.1,
+        "opacity": 1
+      },
+      {
+        "image": "stringstar-near",
+        "scrollFactor": 0.32,
+        "opacity": 0.82
+      }
+    ]
+  },
+  "Tidepool Beach": {
+    "food": [
+      [
+        0,
+        154,
+        185
+      ],
+      [
+        1,
+        2160,
+        185
+      ],
+      [
+        1,
+        2795,
+        185
+      ],
+      [
+        1,
+        3470,
+        185
+      ],
+      [
+        4,
+        2776,
+        140
+      ]
+    ],
+    "backgroundProps": [
+      {
+        "sprite": "palm-tree",
+        "source": [
+          145,
+          21,
+          954,
+          1227
+        ],
+        "x": 95,
+        "y": 208,
+        "height": 106
+      },
+      {
+        "sprite": "palm-tree",
+        "source": [
+          145,
+          21,
+          954,
+          1227
+        ],
+        "x": 697,
+        "y": 208,
+        "height": 98
+      },
+      {
+        "sprite": "palm-tree",
+        "source": [
+          145,
+          21,
+          954,
+          1227
+        ],
+        "x": 992,
+        "y": 208,
+        "height": 111
+      },
+      {
+        "sprite": "palm-tree",
+        "source": [
+          145,
+          21,
+          954,
+          1227
+        ],
+        "x": 1468,
+        "y": 208,
+        "height": 101
+      },
+      {
+        "sprite": "palm-tree",
+        "source": [
+          145,
+          21,
+          954,
+          1227
+        ],
+        "x": 1963,
+        "y": 176,
+        "height": 90
+      },
+      {
+        "sprite": "palm-tree",
+        "source": [
+          145,
+          21,
+          954,
+          1227
+        ],
+        "x": 2433,
+        "y": 208,
+        "height": 105
+      },
+      {
+        "sprite": "palm-tree",
+        "source": [
+          145,
+          21,
+          954,
+          1227
+        ],
+        "x": 2990,
+        "y": 208,
+        "height": 108
+      },
+      {
+        "sprite": "palm-tree",
+        "source": [
+          145,
+          21,
+          954,
+          1227
+        ],
+        "x": 3474,
+        "y": 208,
+        "height": 99
+      },
+      {
+        "sprite": "california-tower",
+        "folder": "landmarks",
+        "source": [
+          322,
+          13,
+          917,
+          1057
+        ],
+        "x": 2760,
+        "y": 208,
+        "height": 164
+      }
+    ],
+    "checkpoint": {
+      "x": 1776,
+      "y": 208,
+      "style": 1
+    },
+    "trailProps": [
+      [
+        "tide",
+        1008,
+        208
+      ],
+      [
+        "tide",
+        1806,
+        208
+      ],
+      [
+        "tide",
+        2296,
+        208
+      ],
+      [
+        "tide",
+        2998,
+        208
+      ]
+    ],
+    "trailBuilding": {
+      "sprite": "lifeguard-tower",
+      "source": [
+        233,
+        16,
+        1070,
+        992
+      ],
+      "x": 1000,
+      "y": 208,
+      "height": 94
+    },
+    "parallax": [
+      {
+        "image": "beach-far",
+        "scrollFactor": 0.1,
+        "opacity": 1
+      },
+      {
+        "image": "beach-near",
+        "scrollFactor": 0.32,
+        "opacity": 0.82
+      }
+    ]
+  },
+  "Dune Gate": {
+    "food": [
+      [
+        0,
+        154,
+        185
+      ],
+      [
+        1,
+        409,
+        185
+      ],
+      [
+        2,
+        568,
+        185
+      ],
+      [
+        3,
+        787,
+        185
+      ],
+      [
+        0,
+        1162,
+        185
+      ],
+      [
+        1,
+        1189,
+        185
+      ],
+      [
+        2,
+        1396,
+        185
+      ],
+      [
+        3,
+        1639,
+        185
+      ],
+      [
+        0,
+        1810,
+        185
+      ],
+      [
+        1,
+        2017,
+        137
+      ],
+      [
+        2,
+        2224,
+        185
+      ],
+      [
+        3,
+        2455,
+        185
+      ],
+      [
+        0,
+        2674,
+        185
+      ],
+      [
+        1,
+        2845,
+        185
+      ],
+      [
+        2,
+        3148,
+        185
+      ],
+      [
+        3,
+        3295,
+        185
+      ],
+      [
+        0,
+        3466,
+        185
+      ],
+      [
+        4,
+        728,
+        140
+      ],
+      [
+        5,
+        1400,
+        140
+      ],
+      [
+        6,
+        2168,
+        140
+      ],
+      [
+        4,
+        2808,
+        140
+      ],
+      [
+        5,
+        3256,
+        124
+      ]
+    ],
+    "checkpoint": {
+      "x": 1816,
+      "y": 208,
+      "style": 2
+    },
+    "backgroundProps": [
+      {
+        "sprite": "desert-cactus",
+        "source": [
+          314,
+          81,
+          634,
+          1093
+        ],
+        "x": 108,
+        "y": 212,
+        "height": 70
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          72,
+          133,
+          296,
+          239
+        ],
+        "x": 260,
+        "y": 211,
+        "height": 38
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          37,
+          987,
+          375,
+          184
+        ],
+        "x": 410,
+        "y": 211,
+        "height": 53
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          902,
+          45,
+          275,
+          327
+        ],
+        "x": 535,
+        "y": 211,
+        "height": 83
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          44,
+          488,
+          365,
+          279
+        ],
+        "x": 688,
+        "y": 211,
+        "height": 44
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          476,
+          67,
+          313,
+          305
+        ],
+        "x": 820,
+        "y": 211,
+        "height": 70
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          856,
+          510,
+          366,
+          256
+        ],
+        "x": 969,
+        "y": 211,
+        "height": 43
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          484,
+          842,
+          260,
+          331
+        ],
+        "x": 1114,
+        "y": 211,
+        "height": 66
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          72,
+          133,
+          296,
+          239
+        ],
+        "x": 1240,
+        "y": 179,
+        "height": 38
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          481,
+          434,
+          292,
+          333
+        ],
+        "x": 1380,
+        "y": 211,
+        "height": 58
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          902,
+          45,
+          275,
+          327
+        ],
+        "x": 1518,
+        "y": 211,
+        "height": 94
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          44,
+          488,
+          365,
+          279
+        ],
+        "x": 1640,
+        "y": 211,
+        "height": 40
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          814,
+          907,
+          421,
+          263
+        ],
+        "x": 1784,
+        "y": 211,
+        "height": 65
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          856,
+          510,
+          366,
+          256
+        ],
+        "x": 1920,
+        "y": 211,
+        "height": 22
+      },
+      {
+        "sprite": "delicate-arch",
+        "folder": "landmarks",
+        "source": [
+          53,
+          90,
+          1216,
+          1056
+        ],
+        "x": 2170,
+        "y": 208,
+        "height": 136
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          72,
+          133,
+          296,
+          239
+        ],
+        "x": 2456,
+        "y": 211,
+        "height": 36
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          484,
+          842,
+          260,
+          331
+        ],
+        "x": 2506,
+        "y": 211,
+        "height": 89
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          476,
+          67,
+          313,
+          305
+        ],
+        "x": 2650,
+        "y": 211,
+        "height": 79
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          856,
+          510,
+          366,
+          256
+        ],
+        "x": 2800,
+        "y": 211,
+        "height": 43
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          481,
+          434,
+          292,
+          333
+        ],
+        "x": 2942,
+        "y": 211,
+        "height": 84
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          44,
+          488,
+          365,
+          279
+        ],
+        "x": 3144,
+        "y": 211,
+        "height": 36
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          37,
+          987,
+          375,
+          184
+        ],
+        "x": 3230,
+        "y": 211,
+        "height": 56
+      },
+      {
+        "sprite": "desert-cactus",
+        "source": [
+          314,
+          81,
+          634,
+          1093
+        ],
+        "x": 3374,
+        "y": 212,
+        "height": 70
+      },
+      {
+        "sprite": "ace-desert-atlas",
+        "source": [
+          476,
+          67,
+          313,
+          305
+        ],
+        "x": 3506,
+        "y": 211,
+        "height": 55
+      }
+    ],
+    "parallax": [
+      {
+        "image": "desert-far",
+        "scrollFactor": 0.1,
+        "opacity": 1
+      },
+      {
+        "image": "desert-near",
+        "scrollFactor": 0.32,
+        "opacity": 0.82
+      }
+    ]
+  },
+  "Reedbank Crossing": {
+    "food": [
+      [
+        1,
+        154,
+        185
+      ],
+      [
+        2,
+        409,
+        185
+      ],
+      [
+        3,
+        568,
+        185
+      ],
+      [
+        0,
+        787,
+        185
+      ],
+      [
+        1,
+        1018,
+        185
+      ],
+      [
+        2,
+        1189,
+        153
+      ],
+      [
+        3,
+        1396,
+        185
+      ],
+      [
+        0,
+        1639,
+        185
+      ],
+      [
+        1,
+        1810,
+        185
+      ],
+      [
+        2,
+        2017,
+        185
+      ],
+      [
+        3,
+        2224,
+        185
+      ],
+      [
+        0,
+        2467,
+        185
+      ],
+      [
+        1,
+        2674,
+        185
+      ],
+      [
+        2,
+        2845,
+        185
+      ],
+      [
+        3,
+        3076,
+        185
+      ],
+      [
+        0,
+        3271,
+        137
+      ],
+      [
+        1,
+        3466,
+        185
+      ],
+      [
+        5,
+        728,
+        140
+      ],
+      [
+        6,
+        1400,
+        140
+      ],
+      [
+        4,
+        2184,
+        140
+      ],
+      [
+        5,
+        2808,
+        140
+      ],
+      [
+        6,
+        3256,
+        124
+      ]
+    ],
+    "backgroundProps": [
+      {
+        "sprite": "birch-tree",
+        "source": [
+          97,
+          12,
+          822,
+          1512
+        ],
+        "x": 103,
+        "y": 208,
+        "height": 111
+      },
+      {
+        "sprite": "birch-tree",
+        "source": [
+          97,
+          12,
+          822,
+          1512
+        ],
+        "x": 544,
+        "y": 208,
+        "height": 101
+      },
+      {
+        "sprite": "birch-tree",
+        "source": [
+          97,
+          12,
+          822,
+          1512
+        ],
+        "x": 1235,
+        "y": 208,
+        "height": 108
+      },
+      {
+        "sprite": "birch-tree",
+        "source": [
+          97,
+          12,
+          822,
+          1512
+        ],
+        "x": 1929,
+        "y": 176,
+        "height": 97
+      },
+      {
+        "sprite": "birch-tree",
+        "source": [
+          97,
+          12,
+          822,
+          1512
+        ],
+        "x": 2645,
+        "y": 208,
+        "height": 113
+      },
+      {
+        "sprite": "birch-tree",
+        "source": [
+          97,
+          12,
+          822,
+          1512
+        ],
+        "x": 3383,
+        "y": 208,
+        "height": 105
+      },
+      {
+        "sprite": "foreground-bank",
+        "folder": "river",
+        "source": [
+          18,
+          27,
+          2136,
+          662
+        ],
+        "x": 340,
+        "y": 208,
+        "height": 43
+      },
+      {
+        "sprite": "foreground-bank",
+        "folder": "river",
+        "source": [
+          18,
+          27,
+          2136,
+          662
+        ],
+        "x": 1064,
+        "y": 219,
+        "height": 45
+      },
+      {
+        "sprite": "foreground-bank",
+        "folder": "river",
+        "source": [
+          18,
+          27,
+          2136,
+          662
+        ],
+        "x": 1340,
+        "y": 208,
+        "height": 37
+      },
+      {
+        "sprite": "foreground-bank",
+        "folder": "river",
+        "source": [
+          18,
+          27,
+          2136,
+          662
+        ],
+        "x": 1870,
+        "y": 208,
+        "height": 43
+      },
+      {
+        "sprite": "foreground-bank",
+        "folder": "river",
+        "source": [
+          18,
+          27,
+          2136,
+          662
+        ],
+        "x": 2204,
+        "y": 208,
+        "height": 45
+      },
+      {
+        "sprite": "foreground-bank",
+        "folder": "river",
+        "source": [
+          18,
+          27,
+          2136,
+          662
+        ],
+        "x": 2710,
+        "y": 208,
+        "height": 36
+      },
+      {
+        "sprite": "foreground-bank",
+        "folder": "river",
+        "source": [
+          18,
+          27,
+          2136,
+          662
+        ],
+        "x": 3315,
+        "y": 160,
+        "height": 37
+      }
+    ],
+    "checkpoint": {
+      "x": 1848,
+      "y": 208,
+      "style": 3
+    },
+    "parallax": [
+      {
+        "image": "river-far",
+        "scrollFactor": 0.1,
+        "opacity": 1
+      },
+      {
+        "image": "river-near",
+        "scrollFactor": 0.32,
+        "opacity": 0.82
+      }
+    ]
+  },
+  "Moonperch Trail": {
+    "food": [
+      [
+        2,
+        154,
+        185
+      ],
+      [
+        3,
+        409,
+        185
+      ],
+      [
+        0,
+        568,
+        185
+      ],
+      [
+        1,
+        787,
+        185
+      ],
+      [
+        2,
+        1018,
+        185
+      ],
+      [
+        3,
+        1189,
+        185
+      ],
+      [
+        0,
+        1396,
+        185
+      ],
+      [
+        1,
+        1639,
+        185
+      ],
+      [
+        2,
+        1918,
+        185
+      ],
+      [
+        3,
+        2017,
+        185
+      ],
+      [
+        0,
+        2224,
+        185
+      ],
+      [
+        1,
+        2539,
+        185
+      ],
+      [
+        2,
+        2638,
+        153
+      ],
+      [
+        3,
+        2845,
+        185
+      ],
+      [
+        0,
+        3052,
+        185
+      ],
+      [
+        1,
+        3295,
+        185
+      ],
+      [
+        2,
+        3466,
+        185
+      ],
+      [
+        6,
+        728,
+        140
+      ],
+      [
+        4,
+        1400,
+        140
+      ],
+      [
+        5,
+        2200,
+        140
+      ],
+      [
+        6,
+        2808,
+        140
+      ],
+      [
+        4,
+        3256,
+        124
+      ]
+    ],
+    "backgroundProps": [
+      {
+        "sprite": "snowy-spruce",
+        "source": [
+          142,
+          42,
+          915,
+          1247
+        ],
+        "x": 98,
+        "y": 208,
+        "height": 117
+      },
+      {
+        "sprite": "snowy-spruce",
+        "source": [
+          142,
+          42,
+          915,
+          1247
+        ],
+        "x": 553,
+        "y": 208,
+        "height": 111
+      },
+      {
+        "sprite": "snowy-spruce",
+        "source": [
+          142,
+          42,
+          915,
+          1247
+        ],
+        "x": 838,
+        "y": 208,
+        "height": 113
+      },
+      {
+        "sprite": "snowy-spruce",
+        "source": [
+          142,
+          42,
+          915,
+          1247
+        ],
+        "x": 1230,
+        "y": 208,
+        "height": 114
+      },
+      {
+        "sprite": "snowy-spruce",
+        "source": [
+          142,
+          42,
+          915,
+          1247
+        ],
+        "x": 1508,
+        "y": 208,
+        "height": 115
+      },
+      {
+        "sprite": "snowy-spruce",
+        "source": [
+          142,
+          42,
+          915,
+          1247
+        ],
+        "x": 1938,
+        "y": 176,
+        "height": 119
+      },
+      {
+        "sprite": "snowy-spruce",
+        "source": [
+          142,
+          42,
+          915,
+          1247
+        ],
+        "x": 2243,
+        "y": 208,
+        "height": 111
+      },
+      {
+        "sprite": "snowy-spruce",
+        "source": [
+          142,
+          42,
+          915,
+          1247
+        ],
+        "x": 3392,
+        "y": 208,
+        "height": 109
+      },
+      {
+        "sprite": "ice-cave",
+        "source": [
+          23,
+          12,
+          1727,
+          863
+        ],
+        "x": 400,
+        "y": 208,
+        "height": 73
+      },
+      {
+        "sprite": "old-main",
+        "folder": "landmarks",
+        "source": [
+          369,
+          15,
+          1435,
+          695
+        ],
+        "x": 2780,
+        "y": 208,
+        "height": 140
+      }
+    ],
+    "checkpoint": {
+      "x": 1784,
+      "y": 208,
+      "style": 4
+    },
+    "trailProps": [
+      [
+        "perch",
+        188,
+        208
+      ],
+      [
+        "log",
+        1088,
+        202
+      ],
+      [
+        "perch",
+        2434,
+        208
+      ]
+    ],
+    "trailBuilding": {
+      "sprite": "ski-lodge",
+      "source": [
+        74,
+        12,
+        1388,
+        1000
+      ],
+      "x": 1355,
+      "y": 208,
+      "height": 89
+    },
+    "parallax": [
+      {
+        "image": "snow-far",
+        "scrollFactor": 0.1,
+        "opacity": 1
+      },
+      {
+        "image": "snow-near",
+        "scrollFactor": 0.32,
+        "opacity": 0.82
+      }
+    ]
+  },
+  "Bramble Ridge": {
+    "food": [
+      [
+        3,
+        154,
+        185
+      ],
+      [
+        0,
+        409,
+        185
+      ],
+      [
+        1,
+        568,
+        153
+      ],
+      [
+        2,
+        787,
+        185
+      ],
+      [
+        3,
+        1066,
+        185
+      ],
+      [
+        0,
+        1189,
+        185
+      ],
+      [
+        1,
+        1396,
+        185
+      ],
+      [
+        2,
+        1639,
+        185
+      ],
+      [
+        3,
+        1810,
+        185
+      ],
+      [
+        0,
+        2017,
+        185
+      ],
+      [
+        1,
+        2224,
+        185
+      ],
+      [
+        2,
+        2431,
+        185
+      ],
+      [
+        3,
+        2662,
+        185
+      ],
+      [
+        0,
+        2845,
+        185
+      ],
+      [
+        1,
+        3052,
+        185
+      ],
+      [
+        2,
+        3271,
+        153
+      ],
+      [
+        3,
+        3466,
+        185
+      ],
+      [
+        4,
+        728,
+        140
+      ],
+      [
+        5,
+        1400,
+        140
+      ],
+      [
+        6,
+        2216,
+        140
+      ],
+      [
+        4,
+        2808,
+        140
+      ],
+      [
+        5,
+        3256,
+        124
+      ]
+    ],
+    "backgroundProps": [
+      {
+        "sprite": "autumn-maple",
+        "source": [
+          34,
+          19,
+          1238,
+          1166
+        ],
+        "x": 93,
+        "y": 208,
+        "height": 104
+      },
+      {
+        "sprite": "autumn-maple",
+        "source": [
+          34,
+          19,
+          1238,
+          1166
+        ],
+        "x": 562,
+        "y": 176,
+        "height": 97
+      },
+      {
+        "sprite": "autumn-maple",
+        "source": [
+          34,
+          19,
+          1238,
+          1166
+        ],
+        "x": 847,
+        "y": 208,
+        "height": 109
+      },
+      {
+        "sprite": "autumn-maple",
+        "source": [
+          34,
+          19,
+          1238,
+          1166
+        ],
+        "x": 1503,
+        "y": 208,
+        "height": 101
+      },
+      {
+        "sprite": "autumn-maple",
+        "source": [
+          34,
+          19,
+          1238,
+          1166
+        ],
+        "x": 2252,
+        "y": 208,
+        "height": 110
+      },
+      {
+        "sprite": "autumn-maple",
+        "source": [
+          34,
+          19,
+          1238,
+          1166
+        ],
+        "x": 2927,
+        "y": 208,
+        "height": 94
+      },
+      {
+        "sprite": "autumn-maple",
+        "source": [
+          34,
+          19,
+          1238,
+          1166
+        ],
+        "x": 3401,
+        "y": 208,
+        "height": 106
+      },
+      {
+        "sprite": "bunker-hill",
+        "folder": "landmarks",
+        "source": [
+          307,
+          14,
+          408,
+          1510
+        ],
+        "x": 2760,
+        "y": 208,
+        "height": 157
+      }
+    ],
+    "checkpoint": {
+      "x": 1840,
+      "y": 208,
+      "style": 5
+    },
+    "trailProps": [
+      [
+        "fork",
+        538,
+        208
+      ]
+    ],
+    "parallax": [
+      {
+        "image": "autumn-far",
+        "scrollFactor": 0.1,
+        "opacity": 1
+      },
+      {
+        "image": "autumn-near",
+        "scrollFactor": 0.32,
+        "opacity": 0.82
+      }
+    ]
+  },
+  "Variegated Canopy": {
+    "food": [
+      [
+        2,
+        200,
+        185
+      ],
+      [
+        3,
+        1832,
+        185
+      ]
+    ],
+    "backgroundProps": [
+      {
+        "sprite": "deliciosa-large",
+        "folder": "monstera",
+        "source": [
+          68,
+          14,
+          1392,
+          991
+        ],
+        "x": 120,
+        "y": 212,
+        "height": 118
+      },
+      {
+        "sprite": "fiddle-leaf-fig",
+        "folder": "houseplants",
+        "source": [
+          98,
+          16,
+          1011,
+          1278
+        ],
+        "x": 294,
+        "y": 212,
+        "height": 112
+      },
+      {
+        "sprite": "deliciosa-small",
+        "folder": "monstera",
+        "source": [
+          239,
+          167,
+          784,
+          908
+        ],
+        "x": 468,
+        "y": 212,
+        "height": 58
+      },
+      {
+        "sprite": "bird-of-paradise",
+        "folder": "houseplants",
+        "source": [
+          19,
+          17,
+          1176,
+          1255
+        ],
+        "x": 642,
+        "y": 212,
+        "height": 122
+      },
+      {
+        "sprite": "albo-large",
+        "folder": "monstera",
+        "source": [
+          14,
+          30,
+          1284,
+          1137
+        ],
+        "x": 816,
+        "y": 212,
+        "height": 118
+      },
+      {
+        "sprite": "calathea-orbifolia",
+        "folder": "houseplants",
+        "source": [
+          56,
+          68,
+          1200,
+          1073
+        ],
+        "x": 990,
+        "y": 212,
+        "height": 60
+      },
+      {
+        "sprite": "albo-small",
+        "folder": "monstera",
+        "source": [
+          222,
+          214,
+          842,
+          814
+        ],
+        "x": 1164,
+        "y": 196,
+        "height": 58
+      },
+      {
+        "sprite": "alocasia-polly",
+        "folder": "houseplants",
+        "source": [
+          89,
+          10,
+          1129,
+          1179
+        ],
+        "x": 1338,
+        "y": 196,
+        "height": 85
+      },
+      {
+        "sprite": "thai-constellation",
+        "folder": "monstera",
+        "source": [
+          147,
+          12,
+          1283,
+          1002
+        ],
+        "x": 1512,
+        "y": 196,
+        "height": 118
+      },
+      {
+        "sprite": "boston-fern",
+        "folder": "houseplants",
+        "source": [
+          95,
+          39,
+          1318,
+          952
+        ],
+        "x": 1860,
+        "y": 212,
+        "height": 54
+      },
+      {
+        "sprite": "aurea-small",
+        "folder": "monstera",
+        "source": [
+          112,
+          100,
+          1062,
+          1004
+        ],
+        "x": 2034,
+        "y": 212,
+        "height": 58
+      }
+    ],
+    "checkpoint": {
+      "x": 1216,
+      "y": 192,
+      "style": 5
+    },
+    "trailProps": [],
+    "signStyle": 7
+  },
+  "Silverleaf Rain Garden": {
+    "food": [
+      [
+        2,
+        200,
+        185
+      ],
+      [
+        3,
+        2088,
+        185
+      ]
+    ],
+    "backgroundProps": [
+      {
+        "sprite": "albo-large",
+        "folder": "monstera",
+        "source": [
+          14,
+          30,
+          1284,
+          1137
+        ],
+        "x": 120,
+        "y": 212,
+        "height": 118
+      },
+      {
+        "sprite": "calathea-orbifolia",
+        "folder": "houseplants",
+        "source": [
+          56,
+          68,
+          1200,
+          1073
+        ],
+        "x": 294,
+        "y": 212,
+        "height": 60
+      },
+      {
+        "sprite": "albo-small",
+        "folder": "monstera",
+        "source": [
+          222,
+          214,
+          842,
+          814
+        ],
+        "x": 642,
+        "y": 196,
+        "height": 58
+      },
+      {
+        "sprite": "alocasia-polly",
+        "folder": "houseplants",
+        "source": [
+          89,
+          10,
+          1129,
+          1179
+        ],
+        "x": 816,
+        "y": 196,
+        "height": 85
+      },
+      {
+        "sprite": "thai-constellation",
+        "folder": "monstera",
+        "source": [
+          147,
+          12,
+          1283,
+          1002
+        ],
+        "x": 1164,
+        "y": 212,
+        "height": 118
+      },
+      {
+        "sprite": "boston-fern",
+        "folder": "houseplants",
+        "source": [
+          95,
+          39,
+          1318,
+          952
+        ],
+        "x": 1338,
+        "y": 212,
+        "height": 54
+      },
+      {
+        "sprite": "aurea-small",
+        "folder": "monstera",
+        "source": [
+          112,
+          100,
+          1062,
+          1004
+        ],
+        "x": 1686,
+        "y": 196,
+        "height": 58
+      },
+      {
+        "sprite": "golden-pothos",
+        "folder": "houseplants",
+        "source": [
+          59,
+          13,
+          1419,
+          979
+        ],
+        "x": 1860,
+        "y": 196,
+        "height": 80
+      },
+      {
+        "sprite": "mint-large",
+        "folder": "monstera",
+        "source": [
+          30,
+          18,
+          1238,
+          1134
+        ],
+        "x": 2034,
+        "y": 212,
+        "height": 118
+      },
+      {
+        "sprite": "adansonii-small",
+        "folder": "monstera",
+        "source": [
+          162,
+          169,
+          1158,
+          696
+        ],
+        "x": 2208,
+        "y": 212,
+        "height": 58
+      }
+    ],
+    "checkpoint": {
+      "x": 1136,
+      "y": 208,
+      "style": 5
+    },
+    "trailProps": [],
+    "signStyle": 8
+  },
+  "Geyser Ridge": {
+    "food": [
+      [
+        0,
+        154,
+        185
+      ],
+      [
+        1,
+        409,
+        185
+      ],
+      [
+        2,
+        568,
+        185
+      ],
+      [
+        3,
+        787,
+        185
+      ],
+      [
+        0,
+        1162,
+        185
+      ],
+      [
+        1,
+        1189,
+        185
+      ],
+      [
+        2,
+        1396,
+        185
+      ],
+      [
+        3,
+        1639,
+        185
+      ],
+      [
+        0,
+        1810,
+        185
+      ],
+      [
+        1,
+        2017,
+        137
+      ],
+      [
+        2,
+        2224,
+        185
+      ],
+      [
+        3,
+        2455,
+        185
+      ],
+      [
+        0,
+        2674,
+        185
+      ],
+      [
+        1,
+        2845,
+        185
+      ],
+      [
+        2,
+        3148,
+        185
+      ],
+      [
+        3,
+        3295,
+        185
+      ],
+      [
+        0,
+        3466,
+        185
+      ],
+      [
+        4,
+        728,
+        140
+      ],
+      [
+        5,
+        1400,
+        140
+      ],
+      [
+        6,
+        2168,
+        140
+      ],
+      [
+        4,
+        2808,
+        140
+      ],
+      [
+        5,
+        3256,
+        124
+      ]
+    ],
+    "checkpoint": {
+      "x": 1816,
+      "y": 208,
+      "style": 11
+    },
+    "parallax": [
+      {
+        "image": "mountain-far",
+        "scrollFactor": 0.1,
+        "opacity": 1
+      },
+      {
+        "image": "mountain-near",
+        "scrollFactor": 0.32,
+        "opacity": 0.82
+      }
+    ],
+    "backgroundProps": [
+      {
+        "sprite": "alpine-pine",
+        "source": [
+          238,
+          39,
+          722,
+          1235
+        ],
+        "x": 130,
+        "y": 208,
+        "height": 116
+      },
+      {
+        "sprite": "alpine-pine",
+        "source": [
+          238,
+          39,
+          722,
+          1235
+        ],
+        "x": 350,
+        "y": 208,
+        "height": 108
+      },
+      {
+        "sprite": "alpine-pine",
+        "source": [
+          238,
+          39,
+          722,
+          1235
+        ],
+        "x": 540,
+        "y": 208,
+        "height": 108
+      },
+      {
+        "sprite": "alpine-pine",
+        "source": [
+          238,
+          39,
+          722,
+          1235
+        ],
+        "x": 790,
+        "y": 208,
+        "height": 111
+      },
+      {
+        "sprite": "alpine-pine",
+        "source": [
+          238,
+          39,
+          722,
+          1235
+        ],
+        "x": 1150,
+        "y": 208,
+        "height": 110
+      },
+      {
+        "sprite": "alpine-pine",
+        "source": [
+          238,
+          39,
+          722,
+          1235
+        ],
+        "x": 1450,
+        "y": 208,
+        "height": 106
+      },
+      {
+        "sprite": "alpine-pine",
+        "source": [
+          238,
+          39,
+          722,
+          1235
+        ],
+        "x": 1665,
+        "y": 208,
+        "height": 112
+      },
+      {
+        "sprite": "alpine-pine",
+        "source": [
+          238,
+          39,
+          722,
+          1235
+        ],
+        "x": 2000,
+        "y": 160,
+        "height": 105
+      },
+      {
+        "sprite": "alpine-pine",
+        "source": [
+          238,
+          39,
+          722,
+          1235
+        ],
+        "x": 2525,
+        "y": 208,
+        "height": 117
+      },
+      {
+        "sprite": "alpine-pine",
+        "source": [
+          238,
+          39,
+          722,
+          1235
+        ],
+        "x": 2740,
+        "y": 208,
+        "height": 104
+      },
+      {
+        "sprite": "alpine-pine",
+        "source": [
+          238,
+          39,
+          722,
+          1235
+        ],
+        "x": 2950,
+        "y": 208,
+        "height": 105
+      },
+      {
+        "sprite": "alpine-pine",
+        "source": [
+          238,
+          39,
+          722,
+          1235
+        ],
+        "x": 3180,
+        "y": 208,
+        "height": 107
+      },
+      {
+        "sprite": "alpine-pine",
+        "source": [
+          238,
+          39,
+          722,
+          1235
+        ],
+        "x": 3430,
+        "y": 208,
+        "height": 110
+      },
+      {
+        "sprite": "old-faithful",
+        "folder": "landmarks",
+        "source": [
+          92,
+          13,
+          836,
+          1488
+        ],
+        "x": 2240,
+        "y": 218,
+        "height": 156
+      }
+    ]
+  }
+}
